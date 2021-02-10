@@ -14,8 +14,8 @@ Sed posuere velit ut tellus mollis mollis. Fusce dictum sollicitudin odio nec co
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
-\<a href="http://google.com/" target="\_blank">hello google!\</a>
-
-
+\<a href="http://google.com/" target="\_blank">
+hello google!
+\</a>
 
 Maecenas metus justo, imperdiet vel velit et, iaculis consectetur risus. Etiam venenatis odio quis vulputate interdum. Nulla facilisi. Pellentesque nibh nibh, elementum sed mauris vel, commodo pretium magna.
